@@ -45,4 +45,4 @@ function minMaxSumv2(arr){
     let result =[min,max,sum];
     return result;
 }
-console.log(minMaxSumv2([2,3,4]));
+console.log(minMaxSumv2([2,3,4,5]));
